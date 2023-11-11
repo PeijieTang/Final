@@ -81,3 +81,4 @@ with col1:
             unsafe_allow_html=True)
         four()
         st.write('It can be seen that there is a certain positive correlation between housing prices and average income in California. The slope of the regression line is positive, indicating that with the increase of average income, housing prices also show an upward trend [3]. This means that in California, higher income areas tend to have higher house prices.')
+       
